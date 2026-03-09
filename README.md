@@ -86,7 +86,7 @@ Auto reaction feature has been included.
 | Status | Feature | Description |
 |---|---|---|
 | ✅ | 🛡️ ANTI-DELETE | Chats වල මකන මැසේජ් පෙනේ |
-| ✅ | 📸 STATUS ANTI-DELETE | මකන ලද ස්ටේටස් බැලිය හැක |
+| ✅ | Pair Code issue fix | පෙයා කොඩ් දොශය නිරාකරනය කර ඇත.|
 | ✅ | ⚡ PERFORMANCE BOOST | Speed එක වැඩි කර ඇත |
 > Note: අලුත්ම Features පාවිච්චි කරන්න බොට්ව නැවත Restart/Deploy කරන්න.
 > 
