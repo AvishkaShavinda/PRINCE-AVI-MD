@@ -1,7 +1,7 @@
-<p align="center"> 👑 PRINCE-AVI-MD-V4 👑 </p>
+
 
 <p align="center">
-  <img src="https://files.catbox.moe/jggkxf.jpg" width="400" alt="Prince Avi MD Logo"/>
+  <img src="https://raw.githubusercontent.com/AvishkaShavinda/PRINCE-AVI-MD/main/AVI%20LOGO%20copy.jpg" width="1280" alt="Prince Avi MD Logo"/>
 </p>
 
 <p align="center">
