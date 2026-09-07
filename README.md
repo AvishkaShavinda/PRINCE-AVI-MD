@@ -60,7 +60,7 @@ pkg install imagemagick -y
 git clone https://github.com/avishka33/PRINCE-AVI-MD
 cd PRINCE-AVI-MD
 yarn install
-npm start
+yarn start
 ```
 Auto reaction feature has been included.
 
