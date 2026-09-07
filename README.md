@@ -19,26 +19,8 @@
 
 ---
 
-## ⚠️ Disclaimer | වගකීමෙන් නිදහස් වීම
-### ශ්‍රී ලංකාවේ එකම WhatsApp Bug බොට් 
 
-> [!WARNING]
-> **Note:** This Tool is designed strictly for educational and research purposes to highlight vulnerabilities in applications. Any unauthorized use to harm individuals, groups, or organizations is strictly prohibited. Ensure you comply with all applicable laws before using this Tool.
-
-
-## 🌟 Features
-* 📥 **Download Menu**
-* 🔍 **Search Menu**
-* 👤 **Owner Menu**
-* 🤖 **Ai Menu**
-* 💀 **Bug Menu**
-
-### 🛠️ Bug Capabilities:
-- 🔥 **Delay Android Devices** - 🕸️ **Spam Call Users**
-- 🍏 **Crash iOS Devices** - 💬 **Crash Group Chats**
-
----
-
+## The bot is not working at the moment; it is currently under development.
 ## 🚀 Deployment Methods
 
 ### 1. Heroku Deployment
