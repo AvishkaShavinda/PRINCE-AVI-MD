@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/avishka33"><img title="Creator" src="https://img.shields.io/badge/Creator-AVI-red.svg?style=for-the-badge&logo=github"></a>
-<img src="https://img.shields.io/badge/Version-4-blue.svg?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/badge/Version-5-blue.svg?style=for-the-badge" alt="Version">
 </p>
 
 <p align="center">
