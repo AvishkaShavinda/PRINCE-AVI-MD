@@ -20,7 +20,7 @@
 ---
 
 
-## The bot is not working at the moment; it is currently under development.
+
 ## 🚀 Deployment Methods
 
 ### 1. Heroku Deployment
