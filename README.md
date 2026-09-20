@@ -62,44 +62,13 @@ cd PRINCE-AVI-MD
 yarn install
 yarn start
 ```
-Auto reaction feature has been included.
 
-🛠️ Update Log (v2.6.0)
-| Status | Feature | Description |
-|---|---|---|
-| ✅ | 🛡️ ANTI-DELETE | Chats වල මකන මැසේජ් පෙනේ |
-| ✅ | Pair Code issue fix | පෙයා කොඩ් දොශය නිරාකරනය කර ඇත.|
-| ✅ | ⚡ PERFORMANCE BOOST | Speed එක වැඩි කර ඇත |
-> Note: අලුත්ම Features පාවිච්චි කරන්න බොට්ව නැවත Restart/Deploy කරන්න.
-> 
-🔔 Notifications
-> [!IMPORTANT]
-> මෙම බොට් එකට අලුත් විශේෂාංග එකතු කරමින් පවති, එම නිසා fork කරගන්න. update ආවම update කරගන්න සමහර features වැඩ නැතිවී යාහැක.
-> 
-> [!CAUTION]
-> Avi-ui සහ Avi-ui-pro BUG කමාන්ඩ් එකතු කර ඇත. මෙම කමාන්ඩ් භාවිතයෙන් ජංගම දුරකතයනයට හානිවිය හැක. (Avi-ui and Avi-ui-pro BUG commands have been added. These commands may damage the mobile phone.)
-> 
-👨‍💻 Developed By: Avishka Shavinda
-Enjoy bugging responsibly! ✨
-ඔබගේ බොට් ක්‍රියා කරවීමෙදී යම් කිසි ගැටලු මතුවුවහොත් අපගේ යුටුබ් නාලිකාවෙහි විඩියෝ නරබා සකසා ගත හැක. නැත හොත් වට්සැප් හරහා අපව සම්බන්ද කරගන්න.
-
-###Bug Command 
-
-* Avi-ui 
-
-* Avi-inbox
-
-* crashui
-
-* Avi-gc
-
-* Avi-gc2
 
 🔗 Contact & Support
  * YouTube: https://youtube.com/@avi_nethunter
  * WhatsApp: wa.me/94772836332
- * GitHub: https://github.com/avishka33
- * Channels: Channel 01 | Channel 02
+ * GitHub: https://github.com/AvishkaShavinda
+
 <p align="center">
 <h6> ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..සංස්කරණය කළ පරිවර්තනයකි! </h6>
 </p>
